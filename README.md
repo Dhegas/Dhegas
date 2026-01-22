@@ -1,5 +1,5 @@
 # 💫 About Me:
-A dedicated Full-Stack Engineer specializing in the JavaScript/TypeScript ecosystem. I design and develop efficient REST APIs using Node.js and build responsive user interfaces with React. I enjoy collaborating on open-source projects and am always looking for ways to enhance application performance and the developer experience. Want to discuss state management or NoSQL databases? Let's connect!
+A dedicated Full-Stack Engineer specializing in the JavaScript/TypeScript ecosystem. I design and develop efficient REST APIs using Node.js and build responsive user interfaces with React. I enjoy collaborating on open-source projects and am always looking for ways to enhance application performance and the developer experience.
 
 
 ## 🌐 Socials:
