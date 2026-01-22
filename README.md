@@ -6,7 +6,6 @@ A dedicated Full-Stack Engineer specializing in the JavaScript/TypeScript ecosys
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@puredhegas) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dhegas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dhegas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhegas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
